@@ -1,0 +1,27 @@
+*{
+	box-sizing:border-box;
+}
+
+body{ 
+	background:#333;
+    padding:0;
+	margin:0;
+	overflow:hidden;
+	
+	
+}
+h1 .main-header{
+	text-align: middle;
+	color:orange; 
+	
+	
+}
+div .game-container{
+	position:relative;
+	width:352px;
+	height:198px;
+	margin:0 auto;
+	
+	outline:1px solid white;
+	
+}
